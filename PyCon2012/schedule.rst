@@ -4,7 +4,7 @@ PyCon 2012 Session Attendance Schedule
 
 With so many interesting sessions at PyCon this year (5 at a time!), it will be difficult to choose which ones to attend. All the more reason to plan it out.
 
-Day 1:
+Friday, March 9th
 ------
 
 ===== =====
@@ -15,6 +15,8 @@ Time  Session
 11:30 The Art of Subclassing
 12:10 Data, Design, Meaning
 12:55 Lunch
+1:00  Booth
+1:30  Booth
 1:45  The Magic of Metaprogramming
 2:40  Apache Cassandra and Python
 3:20  Fake It Til You Make It
@@ -23,7 +25,7 @@ Time  Session
 ===== =====
 
 
-Day 2:
+Saturday, March 10th
 ------
 
 ===== =====
@@ -35,6 +37,7 @@ Time  Session
 11:05 Storing, manipulating and visualizing timeseries using open source packages in Python
 11:45 Pragmatic Unicode, or, How do I stop the pain?
 12:15 Lunch
+12:30 Booth
 1:35  Python and HDF5 - Fast Storage for Large Data
 2:15  Storm: the Hadoop of Realtime Stream Processing
 2:55  Python for data lovers: explore it, analyze it, map it
@@ -43,7 +46,7 @@ Time  Session
 5:30  Lightning Talks
 ===== =====
 
-Day 3:
+Sunday, March 11th
 ------
 
 ===== =====
