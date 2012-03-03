@@ -33,7 +33,7 @@ Time  Session
 ===== =====
 8:30  Lightning Talks
 9:00  Intro and Keynote
-10:25 Why PyPy by example 
+10:25 The Journey to Give Every Scientist a Supercomputer (PiCloud)
 11:05 Storing, manipulating and visualizing timeseries using open source packages in Python
 11:45 Pragmatic Unicode, or, How do I stop the pain?
 12:15 Lunch
