@@ -2,7 +2,7 @@
 Metaclasses
 =====
 
-Note: The door for 'graph processing in python' was closed and locked when I got there
+*Note: The door for 'graph processing in python' was closed and locked when I got there*
 
 - Metaclasses inherit from 'type'
 
