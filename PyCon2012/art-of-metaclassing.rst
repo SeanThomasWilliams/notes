@@ -6,10 +6,12 @@ Note: The door for 'graph processing in python' was closed and locked when I got
 
 - Metaclasses inherit from 'type'
 
-- When to use metaclasses?
-  - Developer to declare an api/interface of classes or subclessses according to one specification, but internally provide more functionality when classes are created
+When to use metaclasses?
+  Developer to declare an api/interface of classes or subclessses according to one specification, but internally provide more functionality when classes are created
 
 - Useful for making concreate classes more straight forward
+- Not a replacement for class factory
+- If you're not sure if you should use one, do some more research
 
 Programmatic Class Creation
 ---------------------------
@@ -18,6 +20,4 @@ Programmatic Class Creation
 - You can create classes programmatically in a function
 - This function is a class factoryv
 - When there is an aspect of class creating that you can't know until execution time
-- If you're not sure if you should use one, do some more research
-
 
