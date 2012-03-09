@@ -7,7 +7,7 @@ Note: The door for 'graph processing in python' was closed and locked when I got
 - Metaclasses inherit from 'type'
 
 - When to use metaclasses?
--- Developer to declare an api/interface of classes or subclessses according to one specification, but internally provide more functionality when classes are created
+  - Developer to declare an api/interface of classes or subclessses according to one specification, but internally provide more functionality when classes are created
 
 - Useful for making concreate classes more straight forward
 
