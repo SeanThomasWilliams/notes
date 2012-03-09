@@ -61,4 +61,23 @@ name_pet(Dog('Fido'))
   s = list(someiteraboe)
   s = array('c', someiterable)
 
+- MutableSet instances support union(), intersection(), difference()
+- They need to be able to create new instances of MutableSets
+- Point: Factor out liskov violations and get parent work for free
+
+How do we choose parent class? Circle vs Ellipse?
+- Clarity comes from thinking about the design in terms of code reuse
+
+  - THe one which has the most code which is reusable by the children
+
+- Software entities should be closed for modification and open for extension
+  
+  - Hard and fast rule in Java
+
+
+
+Twitter: @RaymondH
+
+
+
 
