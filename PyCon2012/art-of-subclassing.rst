@@ -37,6 +37,28 @@ Retool thinking about subclasses
 
 - Instance dict -> subclass dict -> parentclss dict
 - The pointer means "I delegate wotrk to this class"
+- We were taught that "Parents are in charge"
+- Its all just a pile of dicts, and the children are in charge
+- Subclassing means I'm handing off work to be done into another class
 
+.. note:: Code formatting isn't working for some reason
+
+def name_pet(animal):
+    print "The pet's name is", animal,name
+
+name_pet(Animal('Polly'))
+name_pet(Dog('Fido'))
+
+- Lookup Lickov principle (substitutability)
+- Acept_payment should take check, credit card, cash, etc
+
+    - Credit card code for amex, discover, etc can be written later and should work
+
+- Useful subclasses commonly have different constructor signatures
+  
+  - For example, the array API is very similar to the list API but hte constructor is different:
+
+  s = list(someiteraboe)
+  s = array('c', someiterable)
 
 
