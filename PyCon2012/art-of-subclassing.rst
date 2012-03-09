@@ -23,4 +23,16 @@ Patterns for Subclassing
 - Child class overrides stub methods of interest
 
 - Tip: read the code for standard library
-- 
+
+- Example for Circle with subclass of Donut (the shapes)
+- Don't assume just one parent (concept of father vs. mother rather than parent).
+- Super doesn't mean "go up", super means "go up from children"
+
+Retool thinking about subclasses
+-----
+
+- Instance classes are dicts of state
+
+    - Classes are dicts of functions (methods) 
+
+
