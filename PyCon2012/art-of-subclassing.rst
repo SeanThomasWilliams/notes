@@ -6,8 +6,6 @@ The Art of Subclassing
 - Use cases, how super() works
 - Examples from sandard library
 
-.. sourcecode:: python
-
     class Animal:
       'Generic animal class'
       def __init__(self, name):
