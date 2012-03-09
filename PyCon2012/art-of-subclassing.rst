@@ -7,18 +7,16 @@ The Art of Subclassing
 - Examples from sandard library
 
 .. sourcecode:: python
+
     class Animal:
       'Generic animal class'
-
       def __init__(self, name):
         self.name = name
-
       def walk(self):
         print('{} is walking'.format(name))
-
     class Dog(Animal):
+       etc 
 
-...etc
 
 Patterns for Subclassing
 -----
