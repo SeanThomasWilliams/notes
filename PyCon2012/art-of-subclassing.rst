@@ -35,4 +35,8 @@ Retool thinking about subclasses
 
     - Classes are dicts of functions (methods) 
 
+- Instance dict -> subclass dict -> parentclss dict
+- The pointer means "I delegate wotrk to this class"
+
+
 
