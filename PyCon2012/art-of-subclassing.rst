@@ -6,16 +6,25 @@ The Art of Subclassing
 - Use cases, how super() works
 - Examples from sandard library
 
-class Animal:
-  'Generic animal class'
+.. sourcecode:: python
+    class Animal:
+      'Generic animal class'
 
-  def __init__(self, name):
-    self.name = name
+      def __init__(self, name):
+        self.name = name
 
-  def walk(self):
-    print('{} is walking'.format(name))
+      def walk(self):
+        print('{} is walking'.format(name))
 
-class Dog(Animal):
+    class Dog(Animal):
+
 ...etc
 
+Patterns for Subclassing
+-----
 
+- Parent class supplies all of the controller functionality
+- Child class overrides stub methods of interest
+
+- Tip: read the code for standard library
+- 
