@@ -6,6 +6,7 @@ The Journey to Give Every Scientist a Supercomputer
 - You have a supercomputer at your fingertips.
 
 ::
+
     def sq(x):
         print "hello world"
         return x*x
