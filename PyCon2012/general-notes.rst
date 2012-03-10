@@ -12,6 +12,7 @@ General Conference Notes from PyCon 2012
 Company tips for next time
 =====
 
+- Tweet! Come to our booth because X!
 - We had BY FAR the best Tchotchkes at the event (most other people gave away shirts, water bottles, etc). Nobody had seen the reversable sphere gizmos and that was a good conversation starter.
 - Need QR codes on everything. Nobody wants to take our resume-looking sheets of paper. A QR code that goes to the same information would have faired better.
 - Everyone has a smartphone. Let's take advantage of it.
