@@ -54,3 +54,42 @@ Startup Ideas
 
 - Don't attack the huge problems head-on
 - Start small and iterate
+
+=====
+Keynote: David Beazley
+=====
+
+- PyPy is for mad scientists
+- PyPy is python written in python
+- Script called py.py
+
+    - Very verbose, slowly coming up
+    - 2000x slower than python
+
+- Need to do translation for performance
+  
+    python translate.py -Ojit
+
+- Starts showing mandlebrot sets, etc
+- Scary process + needs lots of ram
+- PyPy is implemented in RPython
+
+    - RPython is not an interpreter, but a restricted subset of the Python Language
+    - It can run as valid Python code, but that's the only similatiry
+    - "RPython is everything that our translation toolchain can accept"
+    - ie "Python is everything that runs without a traceback" :)
+
+- This guys is hilarious
+- RPython example with fib sequence
+  - Takes forever to compile, but runs significantly better
+
+- RPython has none of the dynamic features of python
+- Can call into C functions
+- If you love python, you'll hate rpython
+- Uses type inference
+- Walks the source and all branches, inferring types
+- Full understanding by mortals is probably futile
+- PyPy looks at module.__code__.co_code 
+- PyPy translates itself into c by using itself. PyPy translates using its own bytecode interpreter
+- Full details are "hairy"
+-  
