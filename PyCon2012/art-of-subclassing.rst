@@ -43,7 +43,7 @@ Retool thinking about subclasses
 
 .. note:: Code formatting isn't working for some reason
 
-.. code::
+::
     def name_pet(animal):
         print "The pet's name is", animal,name
     name_pet(Animal('Polly'))
@@ -58,7 +58,7 @@ Retool thinking about subclasses
   
   - For example, the array API is very similar to the list API but hte constructor is different:
 
-.. code::
+::
   s = list(someiteraboe)
   s = array('c', someiterable)
 
