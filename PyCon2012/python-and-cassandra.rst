@@ -7,7 +7,8 @@ Python and Apache Caddandra
 - Cassandra is an ordered document database.
 - Select a column type, from there, select a key. Now you get all available values for that key.
 
-Example::    
+- Example::    
+
     UserInfo:
       John:
         OrderedDict( age:32,

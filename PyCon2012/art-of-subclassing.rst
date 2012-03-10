@@ -43,14 +43,6 @@ Retool thinking about subclasses
 
 .. note:: Code formatting isn't working for some reason
 
-code::
-
-    def name_pet(animal):
-        print "The pet's name is", animal,name
-    name_pet(Animal('Polly'))
-    name_pet(Dog('Fido'))
-
-
 ::
 
     def name_pet(animal):
@@ -59,13 +51,6 @@ code::
     name_pet(Dog('Fido'))
 
 
-.. code::
-
-    def name_pet(animal):
-        print "The pet's name is", animal,name
-    name_pet(Animal('Polly'))
-    name_pet(Dog('Fido'))
-
 - Lookup Lickov principle (substitutability)
 - Acept_payment should take check, credit card, cash, etc
 
@@ -73,7 +58,9 @@ code::
 
 - Useful subclasses commonly have different constructor signatures
   
-  - For example, the array API is very similar to the list API but hte constructor is different:::
+  - For example, the array API is very similar to the list API but hte constructor is different:
+
+::
 
     s = list(someiteraboe)
     s = array('c', someiterable)

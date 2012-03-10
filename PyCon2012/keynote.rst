@@ -63,10 +63,10 @@ Keynote: David Beazley
 - PyPy is python written in python
 - Script called py.py
 
-    - Very verbose, slowly coming up
-    - 2000x slower than python
+  - Very verbose, slowly coming up
+  - 2000x slower than python
 
-- Need to do translation for performance
+- Need to do translation for performance::
   
     python translate.py -Ojit
 
@@ -74,10 +74,10 @@ Keynote: David Beazley
 - Scary process + needs lots of ram
 - PyPy is implemented in RPython
 
-    - RPython is not an interpreter, but a restricted subset of the Python Language
-    - It can run as valid Python code, but that's the only similatiry
-    - "RPython is everything that our translation toolchain can accept"
-    - ie "Python is everything that runs without a traceback" :)
+  - RPython is not an interpreter, but a restricted subset of the Python Language
+  - It can run as valid Python code, but that's the only similatiry
+  - "RPython is everything that our translation toolchain can accept"
+  - ie "Python is everything that runs without a traceback" :)
 
 - This guys is hilarious
 - RPython example with fib sequence
