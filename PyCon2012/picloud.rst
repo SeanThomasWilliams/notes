@@ -39,3 +39,11 @@ The Journey to Give Every Scientist a Supercomputer
 - Environments are created and saved so you can call out to binaries, special modules, etc
 - He goes on to tell us how great he is and that he graduated from Berkeley 
 - Talks about how PyCloud came about - Face tagger in python
+- Python makes serializing functions very easy
+- They figure out dependencies using their introspecting system
+- Data is serialized/pickled into the cloud. Check website for other methods.
+- Failover, versioning, portability, auto-scaling, monitoring 
+- Infrastructure: AWS, Rackspace, etc...
+- OpenAFS for environment storage
+- Getting data to the cloud is a feature they have
+- Over 100,000,000 jobs processed to date
