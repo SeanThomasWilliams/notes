@@ -92,4 +92,3 @@ Keynote: David Beazley
 - PyPy looks at module.__code__.co_code 
 - PyPy translates itself into c by using itself. PyPy translates using its own bytecode interpreter
 - Full details are "hairy"
--  
