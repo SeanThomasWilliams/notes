@@ -47,3 +47,4 @@ The Journey to Give Every Scientist a Supercomputer
 - OpenAFS for environment storage
 - Getting data to the cloud is a feature they have
 - Over 100,000,000 jobs processed to date
+- Pay by the millisecond, not the hour
