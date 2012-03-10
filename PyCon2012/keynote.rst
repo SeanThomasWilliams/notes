@@ -33,11 +33,21 @@ Startup Ideas
   - TVs are horrible interfaces
 
 #. Kill Apple
-
+  - A visionary can't lead a company his direction unless he started it
+  - Can't innovate without Steve Jobs
 
 #. Bring back the old Moore's law
-
+  - The law states that circuits would get 2x dense, not 2x faster
+  - You used to just wait for the next generation of processors rather than refactor code
+  - Design a sufficiently smart compiler
+  - Build programs out of parallelizable blocks (MapReduce type) 
+  - Make many CPUs behave like one so the programmer doesn't have to think about it
 
 #. Ongoing Diagnosis
+  - Why do we have to wait until we get sick in order to find out we have something wrong with us?
+  - "Incidentalomas": Things we find by doing scans that wouldn't otherwise bother us
+  - Lots of false alarms
+  - Have to fight red tape of medical industry
 
-
+- Don't attack the huge problems head-on
+- Start small and iterate
