@@ -72,17 +72,17 @@ qthelp:
 	@echo
 	@echo "Build finished; now you can run "qcollectiongenerator" with the" \
 	      ".qhcp project file in $(BUILDDIR)/qthelp, like this:"
-	@echo "# qcollectiongenerator $(BUILDDIR)/qthelp/pydanny-event-notes.qhcp"
+	@echo "# qcollectiongenerator $(BUILDDIR)/qthelp/stw-notes.qhcp"
 	@echo "To view the help file:"
-	@echo "# assistant -collectionFile $(BUILDDIR)/qthelp/pydanny-event-notes.qhc"
+	@echo "# assistant -collectionFile $(BUILDDIR)/qthelp/stw-notes.qhc"
 
 devhelp:
 	$(SPHINXBUILD) -b devhelp $(ALLSPHINXOPTS) $(BUILDDIR)/devhelp
 	@echo
 	@echo "Build finished."
 	@echo "To view the help file:"
-	@echo "# mkdir -p $$HOME/.local/share/devhelp/pydanny-event-notes"
-	@echo "# ln -s $(BUILDDIR)/devhelp $$HOME/.local/share/devhelp/pydanny-event-notes"
+	@echo "# mkdir -p $$HOME/.local/share/devhelp/stw-notes"
+	@echo "# ln -s $(BUILDDIR)/devhelp $$HOME/.local/share/devhelp/stw-notes"
 	@echo "# devhelp"
 
 epub:
