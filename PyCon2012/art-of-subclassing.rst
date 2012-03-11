@@ -4,7 +4,8 @@ The Art of Subclassing
 
 - Going to talk about classes and subclasses, what it means to be a class, etc
 - Use cases, how super() works
-- Examples from sandard library::
+- Examples from sandard library
+.. sourcecode:: python
 
     class Animal:
       'Generic animal class'
@@ -43,7 +44,7 @@ Retool thinking about subclasses
 
 .. note:: Code formatting isn't working for some reason
 
-::
+.. sourcecode:: python
 
     def name_pet(animal):
         print "The pet's name is", animal,name
@@ -60,7 +61,7 @@ Retool thinking about subclasses
   
   - For example, the array API is very similar to the list API but hte constructor is different:
 
-::
+.. sourcecode:: python
 
     s = list(someiteraboe)
     s = array('c', someiterable)

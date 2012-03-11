@@ -7,7 +7,8 @@ Python and Apache Caddandra
 - Cassandra is an ordered document database.
 - Select a column type, from there, select a key. Now you get all available values for that key.
 
-- Example::    
+- Example
+.. sourcecode:: python
 
     UserInfo:
       John:
@@ -21,7 +22,8 @@ Python and Apache Caddandra
 - Cassandra allows for MapReduce
 - Excellent for time series data. Allows for key associated with time / uuid.
 - You can specify the data type for a column
-- Pycassa allows for python object storage::
+- Pycassa allows for python object storage
+.. sourcecode:: python
 
     self.name = "Sean"
     self.sage = "27"

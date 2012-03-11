@@ -9,7 +9,8 @@ Options:
 
 Numpy Arrays:
 - Hard to pass around labels
-- Memory mapped file::
+- Memory mapped file
+.. sourcecode:: python
   
     numpy import memmap
     image = memmap('some_file.dat',
@@ -32,7 +33,7 @@ Pandas
     many statistical tools
     easy visualization (line, var chart, boxplit) with matplotlib
 
-::
+.. sourcecode:: python
 
     from pandas import *
     a = [12.3, 1,3,4, np.nan, 43
@@ -41,7 +42,7 @@ Pandas
 - Nice readable output
 - Data alignment, reduction, missing value management
 
-::
+.. sourcecode:: python
 
     ts.align(ts2)
     ts.reindex(ts2.index)

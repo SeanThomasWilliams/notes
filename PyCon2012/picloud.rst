@@ -5,7 +5,7 @@ The Journey to Give Every Scientist a Supercomputer
 - Computing power as a utility!
 - You have a supercomputer at your fingertips.
 
-::
+.. sourcecode:: python
 
     def sq(x):
         print "hello world"

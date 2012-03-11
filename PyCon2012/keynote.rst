@@ -66,7 +66,8 @@ Keynote: David Beazley
   - Very verbose, slowly coming up
   - 2000x slower than python
 
-- Need to do translation for performance::
+- Need to do translation for performance
+.. sourcecode:: python
   
     python translate.py -Ojit
 
