@@ -1,4 +1,4 @@
 Conferences
 ============
 
-`PyCon2012/index.rst`_
+PyCon2012/index.rst
