@@ -3,20 +3,33 @@ Pycon 2012
 ============
 
 art-of-subclassing_
+
 data-design-meaning_
+
 fake-it-unit-testing_
+
 general-notes_
-index_
+
 ipython-notebook_
+
 keynote_
+
 metaclasses_
+
 opendata_
+
 pandas_
+
 picloud_
+
 python-and-cassandra_
+
 schedule_
+
 timeseries_
+
 unicode_
+
 
 .. _art-of-subclassing: http://github.com/SeanThomasWilliams/notes/blob/master/PyCon2012/art-of-subclassing.rst
 .. _data-design-meaning: http://github.com/SeanThomasWilliams/notes/blob/master/PyCon2012/data-design-meaning.rst
