@@ -164,7 +164,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'stw-notesdoc'
+#htmlhelp_basename = 'stw-notesdoc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -177,13 +177,13 @@ htmlhelp_basename = 'stw-notesdoc'
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
-latex_documents = [
-  ('index', 'stw-notes.tex', u'stw-notes Documentation',
-   u'Sean Williams', 'manual'),
-]
+#latex_documents = [
+#  ('index', 'stw-notes.tex', u'stw-notes Documentation',
+#   u'Sean Williams', 'manual'),
+#]
 
 # The name of an image file (relative to this directory) to place at the top of
-# the title page.
+## the title page.
 #latex_logo = None
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
@@ -210,7 +210,7 @@ latex_documents = [
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
-man_pages = [
-    ('index', 'stw-notes', u'stw-notes Documentation',
-     [u'Sean Williams'], 1)
-]
+#man_pages = [
+#    ('index', 'stw-notes', u'stw-notes Documentation',
+#     [u'Sean Williams'], 1)
+#]
