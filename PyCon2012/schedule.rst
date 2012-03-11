@@ -5,7 +5,7 @@ PyCon 2012 Session Attendance Schedule
 With so many interesting sessions at PyCon this year (5 at a time!), it will be difficult to choose which ones to attend. All the more reason to plan it out.
 
 Friday, March 9th
-------
+-----------------
 
 =====   ===== =====
 Track   Time  Session
@@ -26,7 +26,7 @@ X       1:30  Booth
 
 
 Saturday, March 10th
-------
+--------------------
 
 =====   ===== =====
 Track   Time  Session
@@ -47,7 +47,7 @@ X       12:30 Booth
 =====   ===== =====
 
 Sunday, March 11th
-------
+------------------
 
 =====   ===== =====
 Track   Time  Session
@@ -62,4 +62,15 @@ X       12:30 Lunch
 1       2:55  Closing Address
 1       3:00  Lightning Talks
 =====   ===== =====
+
+::
+
+     ______________ 
+    < PyCon rocks! >
+     -------------- 
+            \   ^__^
+             \  (oo)\_______
+                (__)\       )\/\
+                    ||----w |
+                    ||     ||
 
