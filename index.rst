@@ -4,4 +4,4 @@ Conferences
 .. toctree::
    :maxdepth: 1
 
-   PyCon2012/index
+   `PyCon2012/index.rst`_
